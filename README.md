@@ -1,4 +1,4 @@
-# sistem-login-dasar
+# Sistem Login Dasar
 
 Aplikasi login dasar berbasis **PHP dan MySQL** yang dirancang untuk mempelajari konsep autentikasi pengguna secara sederhana.  
 Cocok untuk pemula yang ingin memahami cara kerja login, register, dan proteksi halaman menggunakan session di PHP.
